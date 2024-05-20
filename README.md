@@ -75,6 +75,13 @@ We used **Power BI** for data visualization due to its powerful capabilities in 
 7. **Custom Measures:** Created custom measures and quick measures using DAX to calculate specific metrics such as total sales, average sales price, and growth rates.
 8. **KPI Visualizations:** Developed Key Performance Indicators (KPIs) to track and visualize critical metrics such as sales targets, performance against benchmarks, and market trends.
 
+## Pages
+<div align="center">
+   <img width="613" alt="page 1" src="https://github.com/NANITH777/Data_Visualization_Project_PowerBI/assets/109669139/d19f82c5-2063-4ef5-b1d7-b034149ce012">
+   <hr>
+   <img width="612" alt="page2" src="https://github.com/NANITH777/Data_Visualization_Project_PowerBI/assets/109669139/3cf810cf-902b-4950-8b23-a87268d99fe6">
+</div>
+
 ## Conclusion
 
 This project leveraged Power BI's robust visualization capabilities to provide a comprehensive analysis of car sales data. By integrating multiple data sources and utilizing a variety of advanced visualization techniques, we were able to uncover valuable insights that can inform decision-making in the automotive industry. The interactive and dynamic nature of the dashboards allows users to explore the data in depth, providing a powerful tool for market analysis, forecasting, and strategic planning.
