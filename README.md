@@ -78,6 +78,8 @@ We used **Power BI** for data visualization due to its powerful capabilities in 
 ## Pages
 <div align="center">
    <img width="613" alt="page 1" src="https://github.com/NANITH777/Data_Visualization_Project_PowerBI/assets/109669139/d19f82c5-2063-4ef5-b1d7-b034149ce012">
+   <hr>
+   <img width="612" alt="page2" src="https://github.com/NANITH777/Data_Visualization_Project_PowerBI/assets/109669139/3cf810cf-902b-4950-8b23-a87268d99fe6">
 </div>
 
 ## Conclusion
