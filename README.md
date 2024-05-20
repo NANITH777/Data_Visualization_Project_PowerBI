@@ -81,6 +81,7 @@ We used **Power BI** for data visualization due to its powerful capabilities in 
    <hr>
    <img width="612" alt="page2" src="https://github.com/NANITH777/Data_Visualization_Project_PowerBI/assets/109669139/3cf810cf-902b-4950-8b23-a87268d99fe6">
    <hr>
+   <img width="610" alt="page 3" src="https://github.com/NANITH777/Data_Visualization_Project_PowerBI/assets/109669139/bf0f8384-4269-440d-91d1-0280c78af6f9">
 </div>
 
 ## Conclusion
